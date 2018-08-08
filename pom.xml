@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>liceyo-study-redis</name>
-    <description>Redis的应用，缓存、session、分布式锁、限流等</description>
+    <description>Redis的应用，缓存、session、限流等</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
